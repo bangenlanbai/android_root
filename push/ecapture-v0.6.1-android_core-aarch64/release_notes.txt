@@ -1,0 +1,9 @@
+## 🚀 Features
+
+- feat:add openssl 1.1.1u and 3.0.9
+   - PR: #380
+
+## 🐛 Fixes
+
+- fix #378 , error: use of undeclared identifier 'KBUILD_MODNAME'
+   - PR: #379
